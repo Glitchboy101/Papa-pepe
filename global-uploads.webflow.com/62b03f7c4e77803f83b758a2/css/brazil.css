@@ -64,9 +64,9 @@
   border-left-width: 4px;
   border-right-width: 4px;
   border-top-color: #448916;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
-  border-right-color: #3898ec;
+  border-bottom-color: #569118;
+  border-left-color: #569118;
+  border-right-color: #569118;
 }
 
 .w-checkbox {
@@ -145,7 +145,7 @@
 }
 
 .w-checkbox-input--inputType-custom.w--redirected-focus {
-  box-shadow: 0px 0px 3px 1px #3898ec;
+  box-shadow: 0px 0px 3px 1px #569118;
 }
 
 body {
@@ -274,9 +274,9 @@ a {
 .button.button-secondary {
   border-style: solid;
   border-width: 1px;
-  border-color: #3898eb;
+  border-color: #569118;
   background-color: #fff;
-  color: #3898eb;
+  color: #569118;
 }
 
 .style-guide-swatch-wrap {
@@ -1238,7 +1238,7 @@ a {
 .feature-wrap.a {
   margin-bottom: 100px;
   padding-top: 100px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#1DA1F2), color-stop(14%, rgba(0, 5, 32, 0)), color-stop(88%, rgba(0, 5, 32, 0)), to(#1DA1F2)), radial-gradient(circle farthest-side at 50% 50%, rgba(1, 253, 248, 0.1), rgba(1, 253, 248, 0));
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#569118;), color-stop(14%, rgba(0, 5, 32, 0)), color-stop(88%, rgba(0, 5, 32, 0)), to(#1DA1F2)), radial-gradient(circle farthest-side at 50% 50%, rgba(1, 253, 248, 0.1), rgba(1, 253, 248, 0));
   background-image: linear-gradient(180deg, #1DA1F2, rgba(0, 5, 32, 0) 14%, rgba(0, 5, 32, 0) 88%, #1DA1F2), radial-gradient(circle farthest-side at 50% 50%, rgba(1, 253, 248, 0.1), rgba(1, 253, 248, 0));
 }
 
@@ -2263,7 +2263,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-  background-color: #1DA1F2;
+  background-color: #569118;
   -webkit-transform: translate3d(0px, 0px, 1000px);
   transform: translate3d(0px, 0px, 1000px);
   -webkit-transform-style: preserve-3d;
@@ -2372,7 +2372,7 @@ a {
   height: 80px;
   border-right: 1px solid rgba(192, 192, 211, 0.2);
   border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-  background-color: #1DA1F2;
+  background-color: #569118;
   -webkit-transform: translate3d(0px, 0px, 1111px);
   transform: translate3d(0px, 0px, 1111px);
   -webkit-transform-style: preserve-3d;
@@ -2799,7 +2799,7 @@ a {
 }
 
 .black-to-blue {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), color-stop(61%, #1DA1F2));
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#000), color-stop(61%,#569118;));
   background-image: linear-gradient(180deg, #000, #1DA1F2 61%);
 }
 
